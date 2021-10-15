@@ -241,7 +241,14 @@ a.btn.btn-food{
     margin-top:40px;
     margin-left:auto;
     height: 185px;
-    margin-right:auto
+    margin-right:auto;
+    text-align:center;
+}
+.card img{
+    margin-top: 40px;
+    margin-left: auto;
+    height: 300px;
+    margin-right: auto;
 }
 .menu-img{
     max-width:200px;
